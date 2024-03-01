@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Edwin',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Promodescuentos',
+			icon: 'shopping-bag',
+			link: 'https://www.promodescuentos.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Buscalibre',
+			icon: 'library-square',
+			link: 'https://www.buscalibre.com.mx/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -98,33 +98,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://www.amazon.com.mx/',
 		},
 		{
 			id: '3',
 			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			icon: 'notebook-pen',
+			link: 'https://www.notion.so/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Salud Digna',
+			icon: 'activity-square',
+			link: 'https://www.salud-digna.org/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'https://facebook.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Crunchyroll',
+			icon: 'japanese-yen',
+			link: 'https://crunchyroll.com/',
 		},
 	],
 
