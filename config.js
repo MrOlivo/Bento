@@ -17,10 +17,22 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	// greetingMorning: 'Good morning!',
+	// greetingAfternoon: 'Good afternoon,',
+	// greetingEvening: 'Good evening,',
+	// greetingNight: 'Go to Sleep!',
+	
+	// Greetings
+	// greetingMorning: '좋은 아침!',
+	// greetingAfternoon: '좋은 오후입니다,',
+	// greetingEvening: '좋은 저녁입니다,',
+	// greetingNight: '잘 자!',
+	
+	// Greetings
+	greetingMorning: '¡Buenos días!',
+	greetingAfternoon: 'Buenas tardes,',
+	greetingEvening: 'Buenas noches,',
+	greetingNight: '¡A dormir!',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
